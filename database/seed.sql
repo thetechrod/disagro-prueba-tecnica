@@ -47,7 +47,8 @@ VALUES
   ('Bioestimulante Agrícola', 'PRODUCT', 225.00, TRUE),
   ('Análisis de Suelo', 'SERVICE', 900.00, TRUE),
   ('Asesoría Técnica', 'SERVICE', 750.00, TRUE),
-  ('Plan de Nutrición de Cultivos', 'SERVICE', 850.00, TRUE);
+  ('Plan de Nutrición de Cultivos', 'SERVICE', 850.00, TRUE),
+  ('Diagnóstico Foliar', 'SERVICE', 500.00, TRUE);
 
   INSERT INTO users (
   name,
